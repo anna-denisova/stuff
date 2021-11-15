@@ -1,0 +1,1 @@
+add_executable(question1 main1.cpp)
